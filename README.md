@@ -1,2 +1,2 @@
-# faisolarifin.github.io
+# riyanmaulana.github.io
 Static website
